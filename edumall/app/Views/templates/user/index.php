@@ -54,7 +54,7 @@
 
                         <!-- Header Logo Start -->
                         <div class="header-logo">
-                            <a class="header-logo__logo" href="index-main.html"><img src="assets/images/dark-logo.png" width="296" height="64" alt="Logo"></a>
+                            <a class="header-logo__logo" href="/"><img src="assets/images/dark-logo.png" width="296" height="64" alt="Logo"></a>
                         </div>
                         <!-- Header Logo End -->
 
@@ -74,67 +74,10 @@
                             <div class="header-navigation d-none d-xl-block">
                                 <nav class="menu-primary">
                                     <ul class="menu-primary__container">
-                                        <li><a class="active" href="#"><span>Beranda</span></a>
-
-                                            <ul class="mega-menu">
-                                                <li>
-                                                    <!-- Mega Menu Content Start -->
-                                                    <div class="mega-menu-content">
-                                                        <div class="row">
-                                                            <div class="col-xl-3">
-                                                                <div class="menu-content-list">
-                                                                    <a href="index-main.html" class="menu-content-list__link">Main Demo <span class="badge hot">Hot</span></a>
-                                                                    <a href="index-course-hub.html" class="menu-content-list__link">Course Hub</a>
-                                                                    <a href="index-online-academy.html" class="menu-content-list__link">Online Academy <span class="badge hot">Hot</span></a>
-                                                                    <a href="index-university.html" class="menu-content-list__link">University</a>
-                                                                    <a href="index-education-center.html" class="menu-content-list__link">Education Center <span class="badge hot">Hot</span></a>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-xl-3">
-                                                                <div class="menu-content-list">
-                                                                    <a href="index-language-academic.html" class="menu-content-list__link">Language Academic</a>
-                                                                    <a href="index-single-instructor.html" class="menu-content-list__link">Single Instructor</a>
-                                                                    <a href="index-dev.html" class="menu-content-list__link">Dev <span class="badge new">New</span></a>
-                                                                    <a href="index-online-art.html" class="menu-content-list__link">Online Art <span class="badge new">New</span></a>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-xl-6">
-                                                                <div class="menu-content-banner" style="background-image: url(assets/images/home-megamenu-bg.jpg);">
-                                                                    <h4 class="menu-content-banner__title">Achieve Your Goals With EduMall</h4>
-                                                                    <a href="#" class="menu-content-banner__btn btn btn-primary btn-hover-secondary">Purchase now</a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Mega Menu Content Start -->
-                                                </li>
-                                            </ul>
-
-
-
-
+                                        <li><a class="active" href="/home"><span>Beranda</span></a>
                                         </li>
                                         <li>
                                             <a href="#"><span>Modul</span></a>
-                                            <ul class="sub-menu">
-                                                <li><a href="course-grid-01.html"><span>Grid Basic Layout</span></a></li>
-                                                <li><a href="course-grid-02.html"><span>Grid Modern Layout</span></a></li>
-                                                <li><a href="course-grid-left-sidebar.html"><span>Grid Left Sidebar</span></a></li>
-                                                <li><a href="course-grid-right-sidebar.html"><span>Grid Right Sidebar</span></a></li>
-                                                <li><a href="course-list.html"><span>List Basic Layout</span></a></li>
-                                                <li><a href="course-list-left-sidebar.html"><span>List Left Sidebar</span></a></li>
-                                                <li><a href="course-list-right-sidebar.html"><span>List Right Sidebar</span></a></li>
-                                                <li><a href="course-category.html"><span>Category Page</span></a></li>
-                                                <li>
-                                                    <a href="#"><span>Single Layout</span></a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="course-single-layout-01.html"><span>Layout 01</span></a></li>
-                                                        <li><a href="course-single-layout-02.html"><span>Layout 02</span></a></li>
-                                                        <li><a href="course-single-layout-03.html"><span>Layout 03</span></a></li>
-                                                        <li><a href="course-single-layout-04.html"><span>Layout 04</span></a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
                                         </li>
                                     </ul>
                                 </nav>
